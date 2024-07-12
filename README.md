@@ -40,3 +40,6 @@ A simple Python application using Tkinter to manage passwords securely. It allow
 - **Generate Password**: Click "Generate Password" to create a new strong password and copy it to your clipboard.
 - **Save Password**: Enter website details (Website, Email/Username, Password) and click "Add" to save them securely.
 - **Search Password**: Enter a website name in the "Website" field and click "Search" to retrieve saved credentials.
+
+  ## note for you people if you actually read this
+  - The password in the package.json is just an example and is not my real password or a real website
